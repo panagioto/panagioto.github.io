@@ -43,8 +43,7 @@ author:
   name:                <firstname> <lastname>
   email:               <mail@domain.tld>
   # Used by `jekyll-seo-tag`:
-   twitter:             den_n1s
-   github:              panagioto
+  # twitter:             <username>
 
 # Add links to the sidebar.
 menu:
@@ -301,8 +300,8 @@ plugins:
 # social:
 #   name:                <firstname> <lastname>
 #   links:
-#     - https://twitter.com/den_n1s
-#     - https://github.com/panagioto
+#     - https://twitter.com/<username>
+#     - https://github.com/<username>
 
 
 # Other Plugins
