@@ -299,7 +299,7 @@ plugins:
 # Used on index and about sites
  social:
 #   name:                <firstname> <lastname>
-#   links:
+   links:
      - https://twitter.com/den_n1s
      - https://github.com/panagioto
 
