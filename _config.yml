@@ -297,11 +297,11 @@ plugins:
 #   admins:              <id>
 
 # Used on index and about sites
- social:
+# social:
 #   name:                <firstname> <lastname>
-   links:
-     - https://twitter.com/den_n1s
-     - https://github.com/panagioto
+#   links:
+#     - https://twitter.com/den_n1s
+#     - https://github.com/panagioto
 
 
 # Other Plugins
