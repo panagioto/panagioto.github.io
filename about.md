@@ -4,7 +4,11 @@ image: /assets/img/blog/hydejack-8.png
 
 # About
 
+My name is Dennis Panagiotopoulos and I am interested in computer security. This blog is an attempt to share my research around different topics such as Active Directory and Windows internals.
 
+Feel free to contact me either on Twitter or Linkedin:
+* [@den_n1s]: https://twitter.com/den_n1s
+* [Linkedin]: https://www.linkedin.com/in/dennispanagiotopoulos
 
 [blog]: https://hydejack.com/blog/
 [portfolio]: https://hydejack.com/projects/
